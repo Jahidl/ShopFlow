@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "C6I75Q/2X28=",
+  "dgSpecHash": "nsIp467pQFI=",
   "success": true,
   "projectFilePath": "/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.InventoryService/ShopFlow.InventoryService.csproj",
   "expectedPackageFiles": [
+    "/Users/jahid/.nuget/packages/masstransit/9.1.0/masstransit.9.1.0.nupkg.sha512",
+    "/Users/jahid/.nuget/packages/masstransit.abstractions/9.1.0/masstransit.abstractions.9.1.0.nupkg.sha512",
     "/Users/jahid/.nuget/packages/microsoft.extensions.configuration/9.0.7/microsoft.extensions.configuration.9.0.7.nupkg.sha512",
     "/Users/jahid/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.7/microsoft.extensions.configuration.abstractions.9.0.7.nupkg.sha512",
     "/Users/jahid/.nuget/packages/microsoft.extensions.configuration.binder/9.0.7/microsoft.extensions.configuration.binder.9.0.7.nupkg.sha512",
@@ -16,6 +18,8 @@
     "/Users/jahid/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.7/microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512",
     "/Users/jahid/.nuget/packages/microsoft.extensions.diagnostics/9.0.7/microsoft.extensions.diagnostics.9.0.7.nupkg.sha512",
     "/Users/jahid/.nuget/packages/microsoft.extensions.diagnostics.abstractions/9.0.7/microsoft.extensions.diagnostics.abstractions.9.0.7.nupkg.sha512",
+    "/Users/jahid/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/9.0.0/microsoft.extensions.diagnostics.healthchecks.9.0.0.nupkg.sha512",
+    "/Users/jahid/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/9.0.0/microsoft.extensions.diagnostics.healthchecks.abstractions.9.0.0.nupkg.sha512",
     "/Users/jahid/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.7/microsoft.extensions.fileproviders.abstractions.9.0.7.nupkg.sha512",
     "/Users/jahid/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.7/microsoft.extensions.fileproviders.physical.9.0.7.nupkg.sha512",
     "/Users/jahid/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.7/microsoft.extensions.filesystemglobbing.9.0.7.nupkg.sha512",
