@@ -1,0 +1,44 @@
+{
+  "UserConfig": {
+    "Namespaces": [
+      {
+        "Name": "sbemulatorns",
+        "Queues": [],
+        "Topics": [
+          {
+            "Name": "shopflow.events",
+            "Properties": {
+              "DefaultMessageTimeToLive": "PT1H"
+            },
+            "Subscriptions": [
+              {
+                "Name": "order-service",
+                "Properties": {
+                  "LockDuration": "PT1M",
+                  "MaxDeliveryCount": 5
+                }
+              },
+              {
+                "Name": "inventory-service",
+                "Properties": {
+                  "LockDuration": "PT1M",
+                  "MaxDeliveryCount": 5
+                }
+              },
+              {
+                "Name": "notification-service",
+                "Properties": {
+                  "LockDuration": "PT1M",
+                  "MaxDeliveryCount": 5
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "LoggingConfig": {
+      "Type": "Console"
+    }
+  }
+}

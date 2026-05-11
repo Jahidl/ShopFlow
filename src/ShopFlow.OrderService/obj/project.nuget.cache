@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKLZgksNsg0=",
+  "success": true,
+  "projectFilePath": "/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.OrderService/ShopFlow.OrderService.csproj",
+  "expectedPackageFiles": [
+    "/Users/jahid/.nuget/packages/microsoft.aspnetcore.openapi/9.0.7/microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "/Users/jahid/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/jahid/.nuget/packages/microsoft.netcore.app.ref/9.0.15/microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "/Users/jahid/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.15/microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512",
+    "/Users/jahid/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.15/microsoft.netcore.app.host.osx-arm64.9.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

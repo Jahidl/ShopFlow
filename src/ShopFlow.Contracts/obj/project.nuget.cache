@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ISdffx8mzc0=",
+  "success": true,
+  "projectFilePath": "/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/ShopFlow.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/jahid/.nuget/packages/microsoft.netcore.app.ref/9.0.15/microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "/Users/jahid/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.15/microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

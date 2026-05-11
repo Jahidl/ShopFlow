@@ -1,0 +1,12 @@
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/bin/Debug/net9.0/ShopFlow.Contracts.deps.json
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/bin/Debug/net9.0/ShopFlow.Contracts.dll
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/bin/Debug/net9.0/ShopFlow.Contracts.pdb
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/obj/Debug/net9.0/ShopFlow.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/obj/Debug/net9.0/ShopFlow.Contracts.AssemblyInfoInputs.cache
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/obj/Debug/net9.0/ShopFlow.Contracts.AssemblyInfo.cs
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/obj/Debug/net9.0/ShopFlow.Contracts.csproj.CoreCompileInputs.cache
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/obj/Debug/net9.0/ShopFlow.Contracts.sourcelink.json
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/obj/Debug/net9.0/ShopFlow.Contracts.dll
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/obj/Debug/net9.0/refint/ShopFlow.Contracts.dll
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/obj/Debug/net9.0/ShopFlow.Contracts.pdb
+/Users/jahid/Desktop/Developer/ShopFlow/src/ShopFlow.Contracts/obj/Debug/net9.0/ref/ShopFlow.Contracts.dll
